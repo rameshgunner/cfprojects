@@ -16,3 +16,5 @@
     end  
       
     puts Lab.new("Labrador", "Benzy").to_s
+
+    # https://www.sitepoint.com/orm-ruby-introduction/
